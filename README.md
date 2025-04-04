@@ -1,4 +1,4 @@
-# Finviz-Review
+# Finviz-Review: A Game-Changer for Stock Traders?
 
 If you want an easy way to explore the stock market, Finviz could be perfect for you. 
 
